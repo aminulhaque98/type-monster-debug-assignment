@@ -198,3 +198,13 @@ button {
     flex-direction: column;
   }
 }
+
+
+
+@media screen and (min-width: 480px) {
+  #histories {
+    display: grid;
+    height: 100%;
+
+  }
+}
