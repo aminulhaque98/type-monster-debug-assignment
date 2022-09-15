@@ -160,7 +160,6 @@ button {
   height: 100%;
   padding: 50px;
   display: grid;
-  /* gap: 20px; */
   align-items: center;
   padding: 20px 30px;
   color: white;
